@@ -20,13 +20,10 @@ This repository showcases my top 10 logic solutions selected from over **751 pro
 | `patternprinting.py` | Nested Loops | Displays complex symmetric number pyramids. |
 
 ## 📊 My Progress Summary
-<h2 align="center">🎥 My 2025 Coding Journey</h2>
-<p align="center">
-  <video src="my2025wrap.mp4" width="100%" controls></video>
-</p>
 - **Problems Solved:** 751+
 - **Learning Minutes:** 10,980+
 - **Current Goal:** Seeking a Python/ECE Internship in Bengaluru.
+- https://www.linkedin.com/posts/kavya-m1242_your-2025-learning-journey-wrapped-at-nxtwave-activity-7413075530935365632--hre?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFjoGfgBcEYcV51s5gWXMaHULDDD2StwAkE
 
 ---
 
