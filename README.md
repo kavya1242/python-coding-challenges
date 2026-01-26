@@ -20,6 +20,7 @@ This repository showcases my top 10 logic solutions selected from over **751 pro
 | `patternprinting.py` | Nested Loops | Displays complex symmetric number pyramids. |
 
 ## 📊 My Progress Summary
+<h2 align="center">🎥 My 2025 Coding Journey</h2>
 <p align="center">
   <video src="my2025wrap.mp4" width="100%" controls></video>
 </p>
@@ -28,4 +29,4 @@ This repository showcases my top 10 logic solutions selected from over **751 pro
 - **Current Goal:** Seeking a Python/ECE Internship in Bengaluru.
 
 ---
-*“Consistency is the key to engineering excellence.”*
+
