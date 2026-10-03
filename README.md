@@ -1,10 +1,6 @@
-# 🚀 Python Logic Highlights: 750+ Problems Milestone
+#  Python Logic Highlights
 
-Hello! I am **Kavya M**, a 6th-semester **ECE student** at **Dr. Ambedkar Institute of Technology (Dr. AIT), Bengaluru**. 
-
-This repository showcases my top 10 logic solutions selected from over **751 problems** solved during my journey with NxtWave. I have dedicated **10,980+ minutes** to mastering Python, SQL, and logical problem-solving.
-
-## 📂 Featured Python Programs
+##  Featured Python Programs
 
 | File Name | Logic Covered | Description |
 | :--- | :--- | :--- |
@@ -19,9 +15,6 @@ This repository showcases my top 10 logic solutions selected from over **751 pro
 | `product_of_n.py` | While Loops | Demonstrates accumulators and loop control. |
 | `patternprinting.py` | Nested Loops | Displays complex symmetric number pyramids. |
 
-## 📊 My Progress Summary
-- **Problems Solved:** 751+
-- **Learning Minutes:** 10,980+
 
 - https://www.linkedin.com/posts/kavya-m1242_your-2025-learning-journey-wrapped-at-nxtwave-activity-7413075530935365632--hre?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFjoGfgBcEYcV51s5gWXMaHULDDD2StwAkE
 
